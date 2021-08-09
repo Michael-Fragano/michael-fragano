@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @michael-fragano
+- 👋 Hi, I’m @Michael-Fragano
 - 👀 I’m interested in Space, Computers, Baseball
 - 🌱 I’m currently learning Computer Science
 - 💞️ I’m looking to collaborate on any of the things im interested in.
-- 📫 How to reach me ...
+- 📫 How to reach me- mjf347@cornell.edu
 
 <!---
 fiercedude/fiercedude is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
