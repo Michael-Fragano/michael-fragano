@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @fiercedude
+- 👋 Hi, I’m @michael-fragano
 - 👀 I’m interested in Space, Computers, Baseball
 - 🌱 I’m currently learning Computer Science
 - 💞️ I’m looking to collaborate on any of the things im interested in.
