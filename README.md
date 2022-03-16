@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Michael-Fragano
 - 👀 I’m interested in Space, Computers, Baseball
 - 🌱 I’m currently learning Computer Science
-- 💞️ I’m looking to collaborate on any of the things im interested in.
+- 💞️ I’m looking to collaborate on any of the things I'm interested in.
 - 📫 How to reach me- mjf347@cornell.edu
 
 <!---
