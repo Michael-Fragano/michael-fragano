@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Michael-Fragano
 - 👀 I’m interested in Space, Computers, Baseball
-- 🌱 I’m currently learning Computer Science
+- 🌱 I graduated From Cornell in 2024 With a BS in Computer Science
 - 💞️ I’m looking to collaborate on any of the things I'm interested in.
 - 📫 How to reach me- mjf347@cornell.edu
 
